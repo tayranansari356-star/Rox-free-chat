@@ -1,0 +1,17 @@
+ROX FREE CHAT — PHONE ONLY BUILD
+
+1. Create/login to a GitHub account.
+2. Create a new repository named: rox-free-chat
+3. Upload the extracted project files from this ZIP to the repository.
+   Make sure .github/workflows/build-apk.yml is also uploaded.
+4. Open the repository -> Actions -> Build Rox Free Chat APK.
+5. Tap "Run workflow".
+6. When the build finishes, open the successful workflow run.
+7. Scroll to Artifacts and download "rox-free-chat-apk".
+8. Extract the artifact ZIP and install app-release.apk on your Android phone.
+
+NOTE:
+This project is an MVP/prototype UI. Real chat, accounts, notifications,
+media upload, encryption, admin controls, and a production backend still
+need to be connected (for example, Firebase) before publishing a full
+messaging service.
